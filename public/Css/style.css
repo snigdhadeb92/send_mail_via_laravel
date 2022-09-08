@@ -1,0 +1,10 @@
+h1{
+    color: red;
+}
+.successMsg{
+    border: 1px solid green;
+    color: green;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
